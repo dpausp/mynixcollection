@@ -1,0 +1,12 @@
+diff -ru kwalletcli_orig/kwif4.cc kwalletcli/kwif4.cc
+--- kwalletcli_orig/kwif4.cc	2015-07-28 16:45:11.229316787 +0200
++++ kwalletcli/kwif4.cc	2015-07-28 16:42:12.951670746 +0200
+@@ -22,7 +22,7 @@
+  * KWallet interface file for Qt 4 and KDE 4
+  */
+ 
+-#include <qstring.h>
++#include <Qt/qstring.h>
+ #include <kaboutdata.h>
+ #include <kapplication.h>
+ #include <kcmdlineargs.h>
