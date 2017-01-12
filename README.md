@@ -13,4 +13,9 @@ This can be run from the root dir like:
 
     nb ./unicorn
 
+User profile install:
+
+    nix-env -i -f . --arg pkg ./unicorn
+
+
 Some of these packages will end up as a pull request to https://github.com/NixOS/nixpkgs
