@@ -1,0 +1,12 @@
+click==6.7
+configobj==5.0.6
+humanize==0.5.1
+pgcli==1.4.0
+pgspecial==1.7.0
+prompt-toolkit==1.0.9
+psycopg2==2.6.2
+Pygments==2.1.3
+setproctitle==1.1.10
+six==1.10.0
+sqlparse==0.2.2
+wcwidth==0.1.7
